@@ -60,9 +60,8 @@ Representa si existe relación entre la calificación que dan los críticos depe
 Representa el comportamiento de ventas de cada plataforma en cada año de su lanzamiento:
 <img src="Capturas/comportamientoxplataforma.png" alt="Representa el comportamiento de ventas de cada plataforma en cada año de su lanzamiento" width="500"/>
 
-Variación de ventas por plataforma::
+Variación de ventas por plataforma:
 <img src="Capturas/ingresosxconsola.png" alt="Variación de ventas por plataforma:" width="700"/>
-
 
 ## Aprendizajes
 - Importancia del análisis regional
