@@ -61,7 +61,10 @@ Representa el comportamiento de ventas de cada plataforma en cada año de su lan
 <img src="Capturas/comportamientoxplataforma.png" alt="Representa el comportamiento de ventas de cada plataforma en cada año de su lanzamiento" width="500"/>
 
 Variación de ventas por plataforma:
+
+
 <img src="Capturas/ingresosxconsola.png" alt="Variación de ventas por plataforma:" width="700"/>
+
 
 ## Aprendizajes
 - Importancia del análisis regional
