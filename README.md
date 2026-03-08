@@ -1,4 +1,4 @@
-# Video Game Sales Analysis
+# Video-game-sales-analysis
 VIDEO GAME SALES ANALYSIS
 
 ## Descripción del proyecto 
